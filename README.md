@@ -1,6 +1,5 @@
 # About Product Sans
-In tandem with developing the logotype, we created a custom, geometric sans-serif typeface to complement the logo in product lockups and supporting identity materials. We call it Product Sans. The typeface design takes cues from that same schoolbook letter-printing style, but adopts the neutral consistency we’ve all come to expect from a geometric sans serif. This allows us to maintain an appropriate level of distinction between the Google logotype and the product name. The character set is complete with numerals, punctuation, accent and alternate characters, fractions, symbols, and supports extended Latin, Greek, and Cyrillic. Download the type specimen for more detail
-- Google Design
+In tandem with developing the logotype, we created a custom, geometric sans-serif typeface to complement the logo in product lockups and supporting identity materials. We call it Product Sans. The typeface design takes cues from that same schoolbook letter-printing style, but adopts the neutral consistency we’ve all come to expect from a geometric sans serif. This allows us to maintain an appropriate level of distinction between the Google logotype and the product name. The character set is complete with numerals, punctuation, accent and alternate characters, fractions, symbols, and supports extended Latin, Greek, and Cyrillic. Download the type specimen for more detail - Google Design
 
 # On the Web
 Product Sans is already available for use on the web!
