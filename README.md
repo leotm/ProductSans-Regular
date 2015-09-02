@@ -17,4 +17,5 @@ Download ProductSans-Regular.ttf:
 
 # License
 This font may not be used on open source terms.
+
 Please see https://www.google.com/fonts/license/productsans for the entire license.
