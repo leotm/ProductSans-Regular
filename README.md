@@ -17,3 +17,7 @@ Download
 ProductSans-Regular.ttf
 http://www90.zippyshare.com/v/3kGMo0yX/file.html
 http://www.mediafire.com/download/cj74ai8pbbcs7s9/ProductSans-Regular.ttf
+
+# License
+This font may not be used on open source terms.
+Please see https://www.google.com/fonts/license/productsans for the entire license.
