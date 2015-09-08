@@ -17,10 +17,6 @@ The easiest way to install a font is to download [ProductSans-Regular.ttf](http:
 
 ![alt tag](https://c.s-microsoft.com/en-us/CMSImages/Install1.png?version=dff8f0f1-eb17-977c-7b4f-436cf694d714)
 
-Download ProductSans-Regular.ttf:
-- http://www90.zippyshare.com/v/3kGMo0yX/file.html
-- http://www.mediafire.com/download/cj74ai8pbbcs7s9/ProductSans-Regular.ttf
-
 # [License](https://www.google.com/fonts/license/productsans)
 
 > Google offers many fonts on open source terms. This is not one of them. Please see www.google.com/fonts.
